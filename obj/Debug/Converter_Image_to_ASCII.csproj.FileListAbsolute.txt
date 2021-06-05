@@ -1,0 +1,11 @@
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\bin\Debug\Converter_Image_to_ASCII.exe.config
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\bin\Debug\Converter_Image_to_ASCII.exe
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\bin\Debug\Converter_Image_to_ASCII.pdb
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\obj\Debug\Converter_Image_to_ASCII.csprojAssemblyReference.cache
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\obj\Debug\Converter_Image_to_ASCII.csproj.CoreCompileInputs.cache
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\obj\Debug\Converter_Image_to_ASCII.exe
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\obj\Debug\Converter_Image_to_ASCII.pdb
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\bin\Debug\DotLiquid.dll
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\bin\Debug\DotLiquid.xml
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\VendeTTa\source\repos\Converter_Image_to_ASCII\obj\Debug\Converter_Image_to_ASCII.csproj.CopyComplete
